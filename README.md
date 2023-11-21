@@ -5,7 +5,7 @@
   <div style="display:flex; flex-direction:column; margin-bottom: 100px;">
     <p><img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=400&height=75&repeat=false&lines=Rafly+Yunandi+Aliansyah;Bachelor+Of+Software+Engineering;Web+Developer+%7C+UI+/+UX+Designer+%7C+Generative+AI" alt="Typing Animation" hspace="10" height="auto"></p>
     <div style="display:flex; align-items:center;">
-      <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;" hspace="10">
+      <img src="https://komarev.com/ghpvc/?username=raflyyunandi&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;" hspace="10">
     </div>
   </div>
 </div>
@@ -219,8 +219,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rafly-yunandi-aliansyah-7b568a148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/raflyyunandi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tconguit" height="20" width="30" /></a>
-  <a href="https://twitter.com/rafly_yunandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/raflyyunandi/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="congthanhng11" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafly-yunandi-aliansyah-7b568a148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/raflyyunandi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafly" height="20" width="30" /></a>
+  <a href="https://twitter.com/rafly_yunandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/raflyyunandi/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafly" height="30" width="40" /></a>
 </p>
 
 <br>
